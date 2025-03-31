@@ -1,5 +1,5 @@
 {
-	"NewestVersion":"v1.0.2",
-	"Changes":"Fixed an issue with Syntax & Incomplete threading.",
+	"NewestVersion":"v1.0.3",
+	"Changes":"New version check system.",
 	"DownloadLocation":"https://github.com/PeEcEeChIP/Realistic-Euphoria-Physics"
 }
